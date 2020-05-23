@@ -2,6 +2,6 @@
   "liveServer.settings.root": "/build",
   "liveServer.settings.port": 1235,
   "liveServer.settings.mount": [
-       ["/react-mossaic-cra", "build"],
+       ["/react-mosaic-cra", "build"],
     ]
 }

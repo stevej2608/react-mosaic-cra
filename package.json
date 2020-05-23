@@ -2,7 +2,7 @@
   "name": "react-mosaic-cra",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://stevej2608.github.io/react-mossaic-cra",
+  "homepage": "http://stevej2608.github.io/react-mosaic-cra",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
