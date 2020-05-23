@@ -11,6 +11,8 @@ The following changes have been made:
 * CSS converted from LESS to SASS
 * The react-mosaic custom webpack build changed to vanilla create-react-app v3.4.1
 
+See demo at [react-mosaic-cra](https://stevej2608.github.io/react-mosaic-cra/)
+
 **Usage**
 
         npm install
