@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-mossaic-cra/static/css/main.5280cfe0.chunk.css",
-    "main.js": "/react-mossaic-cra/static/js/main.7214f5bc.chunk.js",
-    "main.js.map": "/react-mossaic-cra/static/js/main.7214f5bc.chunk.js.map",
-    "runtime-main.js": "/react-mossaic-cra/static/js/runtime-main.99c8c3b0.js",
-    "runtime-main.js.map": "/react-mossaic-cra/static/js/runtime-main.99c8c3b0.js.map",
-    "static/css/2.69a5e7d9.chunk.css": "/react-mossaic-cra/static/css/2.69a5e7d9.chunk.css",
-    "static/js/2.206e3240.chunk.js": "/react-mossaic-cra/static/js/2.206e3240.chunk.js",
-    "static/js/2.206e3240.chunk.js.map": "/react-mossaic-cra/static/js/2.206e3240.chunk.js.map",
-    "index.html": "/react-mossaic-cra/index.html",
-    "precache-manifest.937fd8175aa2bc0799671b33aa7766e5.js": "/react-mossaic-cra/precache-manifest.937fd8175aa2bc0799671b33aa7766e5.js",
-    "service-worker.js": "/react-mossaic-cra/service-worker.js",
-    "static/css/2.69a5e7d9.chunk.css.map": "/react-mossaic-cra/static/css/2.69a5e7d9.chunk.css.map",
-    "static/css/main.5280cfe0.chunk.css.map": "/react-mossaic-cra/static/css/main.5280cfe0.chunk.css.map",
-    "static/js/2.206e3240.chunk.js.LICENSE.txt": "/react-mossaic-cra/static/js/2.206e3240.chunk.js.LICENSE.txt",
-    "static/media/blueprint-icons.css": "/react-mossaic-cra/static/media/icons-20.cef8cdbb.woff"
+    "main.css": "/react-mosaic-cra/static/css/main.5280cfe0.chunk.css",
+    "main.js": "/react-mosaic-cra/static/js/main.8402ded7.chunk.js",
+    "main.js.map": "/react-mosaic-cra/static/js/main.8402ded7.chunk.js.map",
+    "runtime-main.js": "/react-mosaic-cra/static/js/runtime-main.c15c7e16.js",
+    "runtime-main.js.map": "/react-mosaic-cra/static/js/runtime-main.c15c7e16.js.map",
+    "static/css/2.86809363.chunk.css": "/react-mosaic-cra/static/css/2.86809363.chunk.css",
+    "static/js/2.5642d471.chunk.js": "/react-mosaic-cra/static/js/2.5642d471.chunk.js",
+    "static/js/2.5642d471.chunk.js.map": "/react-mosaic-cra/static/js/2.5642d471.chunk.js.map",
+    "index.html": "/react-mosaic-cra/index.html",
+    "precache-manifest.0c574688399f6e627245254438c094c2.js": "/react-mosaic-cra/precache-manifest.0c574688399f6e627245254438c094c2.js",
+    "service-worker.js": "/react-mosaic-cra/service-worker.js",
+    "static/css/2.86809363.chunk.css.map": "/react-mosaic-cra/static/css/2.86809363.chunk.css.map",
+    "static/css/main.5280cfe0.chunk.css.map": "/react-mosaic-cra/static/css/main.5280cfe0.chunk.css.map",
+    "static/js/2.5642d471.chunk.js.LICENSE.txt": "/react-mosaic-cra/static/js/2.5642d471.chunk.js.LICENSE.txt",
+    "static/media/blueprint-icons.css": "/react-mosaic-cra/static/media/icons-20.cef8cdbb.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.99c8c3b0.js",
-    "static/css/2.69a5e7d9.chunk.css",
-    "static/js/2.206e3240.chunk.js",
+    "static/js/runtime-main.c15c7e16.js",
+    "static/css/2.86809363.chunk.css",
+    "static/js/2.5642d471.chunk.js",
     "static/css/main.5280cfe0.chunk.css",
-    "static/js/main.7214f5bc.chunk.js"
+    "static/js/main.8402ded7.chunk.js"
   ]
 }
