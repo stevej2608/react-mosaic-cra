@@ -16,4 +16,8 @@ The following changes have been made:
         npm install
         npm start
 
+To build to `./docs` folder:
+
+        npm run bundle
+
 Visit [http://localhost:1234/](http://localhost:1234/)
