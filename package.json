@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "@blueprintjs/core": "^3.27.0",
     "@blueprintjs/icons": "^3.17.0",
     "react-mosaic-component": "^4.1.1"
@@ -37,6 +37,6 @@
     ]
   },
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^9.0.0"
   }
 }
